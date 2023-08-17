@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Muhammadzohid
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming 💻
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🤖 I also want to study Artificial Intelligence in the future
 
 <!---
 MuhammadzohidLatifjonov/MuhammadzohidLatifjonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
