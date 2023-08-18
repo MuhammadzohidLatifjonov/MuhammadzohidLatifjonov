@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px">
 - 🤖 I also want to study Artificial Intelligence in the future <img src="https://cdn-icons-png.flaticon.com/512/8593/8593325.png" width="30px">
 ## Languages ​​and tools I work with:
-<code><img src="https://assets.stickpng.com/images/5847f5aecef1014c0b5e489a.png" width="90px"></code>
-<code><img src="https://w7.pngwing.com/pngs/226/1010/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-others-miscellaneous-angle-rectangle.png" width="90px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png" width="70px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="70px"></code>
 <code><img src="https://www.pngitem.com/pimgs/m/27-278312_bootstrap-bootstrap-logo-black-and-white-hd-png.png" width="90px"></code>
+<code><img src="https://w7.pngwing.com/pngs/146/420/png-transparent-js-logo-logos-logos-and-brands-icon.png" width="90px"></code>
 ### Contact me by telegram: <a href="https://t.me/muhammadzohid_11"><img src="https://w7.pngwing.com/pngs/284/690/png-transparent-telegram-logo-computer-icons-telegram-logo-blue-angle-triangle-thumbnail.png" width="30px"></a>
 <!---
 MuhammadzohidLatifjonov/MuhammadzohidLatifjonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
