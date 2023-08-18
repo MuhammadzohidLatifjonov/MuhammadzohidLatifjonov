@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px">
 - 🤖 I also want to study Artificial Intelligence in the future <img src="https://cdn-icons-png.flaticon.com/512/8593/8593325.png" width="30px">
 ## Languages ​​and tools I work with:
-<code><img src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies.png" width="30px"></code>
+<code><img src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies.png" width="50px"></code>
 ### Contact me by telegram: <a href="https://t.me/muhammadzohid_11"><img src="https://w7.pngwing.com/pngs/284/690/png-transparent-telegram-logo-computer-icons-telegram-logo-blue-angle-triangle-thumbnail.png" width="30px"></a>
 <!---
 MuhammadzohidLatifjonov/MuhammadzohidLatifjonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
