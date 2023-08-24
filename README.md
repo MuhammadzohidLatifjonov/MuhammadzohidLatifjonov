@@ -5,7 +5,7 @@
 ## Languages ​​and tools I work with:
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png" width="70px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="70px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-icon-logo-black-and-white.png" width="80px"></code>
+<code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968680.png" width="80px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwxcsPy9zTRqehYNZ5EaH2K59hgYgvQNkoOQ&usqp=CAU" width="80px"></code>
 <br>
 ### Contact me by telegram: <a href="https://t.me/muhammadzohid_11"><img src="https://w7.pngwing.com/pngs/284/690/png-transparent-telegram-logo-computer-icons-telegram-logo-blue-angle-triangle-thumbnail.png" width="30px"></a>
