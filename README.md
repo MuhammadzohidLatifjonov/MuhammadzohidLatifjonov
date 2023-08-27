@@ -10,6 +10,8 @@
 <code><img src="https://w7.pngwing.com/pngs/510/329/png-transparent-wordpress-com-blog-computer-icons-wordpress-emblem-trademark-logo.png" width="80px"></code>
 <br>
 ### Contact me by telegram: <a href="https://t.me/muhammadzohid_11"><img src="https://w7.pngwing.com/pngs/284/690/png-transparent-telegram-logo-computer-icons-telegram-logo-blue-angle-triangle-thumbnail.png" width="30px"></a>
+- 📍 Current location: Andijan Asaka district,
+- 📝 Ask me about anything, I am happy to help
 <!---
 MuhammadzohidLatifjonov/MuhammadzohidLatifjonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
